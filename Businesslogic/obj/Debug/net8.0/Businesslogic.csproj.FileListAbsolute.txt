@@ -1,0 +1,17 @@
+C:\Users\peri_\source\repos\Businesslogic\bin\Debug\net8.0\Businesslogic.deps.json
+C:\Users\peri_\source\repos\Businesslogic\bin\Debug\net8.0\Businesslogic.dll
+C:\Users\peri_\source\repos\Businesslogic\bin\Debug\net8.0\Businesslogic.pdb
+C:\Users\peri_\source\repos\Businesslogic\bin\Debug\net8.0\Entities.dll
+C:\Users\peri_\source\repos\Businesslogic\bin\Debug\net8.0\Entities.pdb
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Businesslogic.csproj.AssemblyReference.cache
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Businesslogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Businesslogic.AssemblyInfoInputs.cache
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Businesslogic.AssemblyInfo.cs
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Businesslogic.csproj.CoreCompileInputs.cache
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Business.CF5E0F55.Up2Date
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Businesslogic.dll
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\refint\Businesslogic.dll
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\Businesslogic.pdb
+C:\Users\peri_\source\repos\Businesslogic\obj\Debug\net8.0\ref\Businesslogic.dll
+C:\Users\peri_\source\repos\Businesslogic\bin\Debug\net8.0\Data.dll
+C:\Users\peri_\source\repos\Businesslogic\bin\Debug\net8.0\Data.pdb
